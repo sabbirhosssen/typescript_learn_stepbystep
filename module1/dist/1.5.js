@@ -1,6 +1,7 @@
 "use strict";
 var user = {
+    company: "Programing Hero",
     firstName: "sabbir",
-    middleName: "hossen",
     lastName: "rajkumar",
 };
+user.firstName; //user all object value gula show korbe
